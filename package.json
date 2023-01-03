@@ -1,0 +1,25 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "use of streams with nodejs",
+  "main": "streams_basics.js",
+  "dependencies": {
+    "stream": "0.0.2",
+    "stream/promises": "~",
+    "through2": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gary003/stream.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gary003/stream/issues"
+  },
+  "homepage": "https://github.com/gary003/stream#readme"
+}
