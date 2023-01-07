@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "postTitle1",
+      "content": "lorem 1"
+    },
+    {
+      "title": "postTitle2",
+      "content": "lorem 2"
+    },
+    {
+      "title": "postTitle3",
+      "content": "lorem 3"
+    }
+  ]
+}

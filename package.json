@@ -4,8 +4,8 @@
   "description": "use of streams with nodejs",
   "main": "streams_basics.js",
   "dependencies": {
+    "JSONStream": "^1.3.5",
     "stream": "0.0.2",
-    "stream/promises": "~",
     "through2": "^4.0.2"
   },
   "devDependencies": {},
